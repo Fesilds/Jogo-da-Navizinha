@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-
+#testandooooooooooooooooo
 # Importando as bibliotecas necessárias.
 import pygame
 from os import path
